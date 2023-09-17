@@ -1,6 +1,5 @@
 <p align="center">
-  <a href="https://devhaxx.xyz">
-   <a align="center">DevHaxx</a>
+   <a align="center" <a href="https://devhaxx.xyz">
   </a>
 </p>
 
