@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://devhaxx.xyz">
-   <h1 align="center">DevHaxx</h1>
+   <a align="center">DevHaxx</a>
   </a>
 </p>
 
@@ -10,7 +10,7 @@
 <p align="center">
 
 ## 🚀 About Us
-DevTech Services is a small group of hobbyist programmers/developers.
+DevHaxx Services is a small group of hobbyist programmers/developers.
 ## 🌐 Our Expertise
 We specialize in:
 - Cybersecurity
