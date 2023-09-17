@@ -1,11 +1,8 @@
 <p align="center">
-  <a href="https://dariandev.com">
-    <img alt="DevTech Services" src="theDevs.png?raw=true">
+  <a href="https://devhaxx.xyz">
+   <h1 align="center">DevHaxx</h1>
   </a>
 </p>
-<h1 align="center">DevHaxx</h1>
-
-
 
 <p align="center">
 </p>
