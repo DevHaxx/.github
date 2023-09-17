@@ -3,8 +3,6 @@
     <img src="https://github.com/DevTech-Services/.github/raw/main/profile/theDevs.png?raw=true" alt="DevHaxx" width="100">
   </a>
 </p>
-
-
 <p align="center">
   <strong>🚀 About Us</strong>
   <br>
